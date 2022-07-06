@@ -20,7 +20,7 @@
 🔭 learning fullstack smart contract development: [Solidity](https://docs.soliditylang.org/en/v0.8.15/), [React](https://reactjs.org/), [NextJs](https://nextjs.org/), [EVM](https://ethereum.org/en/developers/docs/evm/), [dApps](https://github.com/theekrystallee/whitelist-dapp)
 <br/>
   
-[![Trophies](https://github-profile-trophy.vercel.app/?username=theekrystallee&theme=onestar&margin-w=10&margin-h=20&column=7)](https://github.com/theekrystallee)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=theekrystallee&theme=discord&margin-w=10&margin-h=20&column=7)](https://github.com/theekrystallee)
 
 </div>
 
