@@ -10,7 +10,6 @@
 <a href="https://www.youtube.com/c/uncaughtexceptions" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="theekrystallee" height="35" width="35" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 <a href="https://linkedin.com/in/theekrystallee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="theekrystallee" height="35" width="35" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/theekrystallee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="theekrystallee" height="35" width="35" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.leetcode.com/theekrystallee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="theekrystallee" height="35" width="35" /></a>
 </p>
 
 
