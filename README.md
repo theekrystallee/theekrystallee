@@ -5,7 +5,6 @@
 <a href="https://twitter.com/theekrystallee" target="_blank" rel="noopener noreferrer"><img align="center" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" alt="theekrystallee" target="blank" height="30" width="35" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.tiktok.com/@theekrystallee" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/t/6/tiktok-app-icon.svg" alt="theekrystallee" height="28" width="35" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.com/users/550003127525572609" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/d/43/discord.svg" alt="theekrystallee" height="30" width="35" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/theekrystallee" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" alt="theekrystallee" height="27" width="35" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/c/uncaughtexceptions" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/y/57/youtube-icon.svg" alt="theekrystallee" height="30" width="35" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 
 </p>
