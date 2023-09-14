@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Krystal
+<h2 align="center"> hello future 🔮
 <a href="https://media.theekrystallee.com/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://pbs.twimg.com/profile_images/1378083034864496642/jd08dX5E_400x400.jpg" alt="theekrystallee" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;</h2>
 
 <p align="center">
