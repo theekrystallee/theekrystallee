@@ -1,5 +1,5 @@
-<h2 align="center"> hello future
-<a href="https://media.theekrystallee.com/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://pbs.twimg.com/profile_images/1378083034864496642/jd08dX5E_400x400.jpg" alt="theekrystallee" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;</h2>
+<h2 align="center"> hello future 👋
+</a>&nbsp;&nbsp;&nbsp;&nbsp;</h2>
 
 <p align="center">
 <a href="https://twitter.com/theekrystallee" target="_blank" rel="noopener noreferrer"><img align="center" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" alt="theekrystallee" target="blank" height="30" width="35" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
